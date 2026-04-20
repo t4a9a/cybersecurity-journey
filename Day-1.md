@@ -40,10 +40,10 @@ Easy
 Basic understanding achieved
 
 ## Screenshots:
-ss/day1_ss.png
+![alt text](image.png)
 
-![alt text](ss/image.png)
+![alt text](image-1.png)
 
-ss/image-1.png
+![alt text](image-2.png)
 
-ss/image-2.png
+![alt text](image-3.png)

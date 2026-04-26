@@ -150,16 +150,16 @@ If this was a real server, attacker could access:
 * Learned real-world impact of misconfiguration
 
 ---
-![alt text](Screenshot_2026-04-26_03_55_58.png)
+![alt text](screenshots/Screenshot_2026-04-26_03_55_58.png)
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
-![alt text](image-8.png)
+![alt text](screenshots/image-8.png)
 
-![alt text](image-9.png)
+![alt text](screenshots/image-9.png)
 
-![alt text](image-10.png)
+![alt text](screenshots/image-10.png)
 
-![alt text](image-11.png)
+![alt text](screenshots/image-11.png)
 
-![alt text](image-12.png)
+![alt text](screenshots/image-12.png)

@@ -136,4 +136,4 @@ POST /sdk HTTP/1.1 501
 * Observed real interaction between scanner and server
 
 ---
-![alt text](image-7.png)
+![alt text](/screenshots/image-7.png)
